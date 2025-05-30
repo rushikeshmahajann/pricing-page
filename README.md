@@ -1,12 +1,70 @@
-# React + Vite
+# buyOu – Video Storefront for Creators
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**buyOu** is a modern, animated pricing page for a video storefront platform built specifically for creators. It allows creators to showcase and monetize their offerings with ease.
 
-Currently, two official plugins are available:
+> 🚫 No AI-generated code was used in this project — AI was used solely for generating mock data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Live Demo:** [https://pricing-page-three.vercel.app/](https://pricing-page-three.vercel.app/)
+- **Portfolio:** [https://rushikeshmahajan.com](https://rushikeshmahajan.com)
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ **React** – UI library for building fast and modular interfaces
+- 🎨 **Tailwind CSS** – Utility-first CSS framework for styling
+- 🎞 **GSAP (GreenSock Animation Platform)** – For scroll and animation effects
+- 🌀 **Framer Motion** – For smooth, declarative animations
+- 👁 **AOS (Animate On Scroll)** – For scroll-triggered animations
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/buyOu.git
+cd buyOu
+2. Install Dependencies
+Make sure you have Node.js installed (v16+ recommended).
+
+bash
+Copy
+Edit
+npm install
+3. Start the Development Server
+bash
+Copy
+Edit
+npm run dev
+Visit http://localhost:5173 to view the app in your browser.
+
+🧪 Scripts
+Here are the available NPM scripts you can use in this project:
+
+Command	Description
+npm run dev	Start development server with HMR
+npm run build	Build for production
+npm run preview	Preview the production build locally
+npm run lint	Run ESLint to catch issues
+
+✨ Features
+💡 Animated pricing page layout
+
+📱 Fully responsive design with Tailwind CSS
+
+🎥 Scroll and motion animations powered by GSAP + AOS + Framer Motion
+
+🧩 Clean, modular React components
+
+🧠 No AI-generated code – 100% developer logic
+
+📁 Pricing Page Focus
+This project specifically focuses on the /pricing page. It highlights various pricing tiers for the video storefront platform, built to help creators easily compare and select the best plan for their needs. Smooth animations and responsive design ensure an engaging user experience across all devices.
+
+
