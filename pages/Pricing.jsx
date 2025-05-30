@@ -53,8 +53,8 @@ export function Pricing() {
   return (
     <section className="mt-32">
       <div className="my-18 w-full flex flex-col justify-center items-center">
-        <h2 className="text-4xl max-w-xs md:max-w-full md:text-5xl font-poppin tracking-tight text-center text-purple-100 font-medium">
-          Priced for impact at scale
+        <h2 className="text-4xl max-w-xs md:max-w-full md:text-5xl xl:text-6xl font-poppin tracking-tight text-center text-purple-100 font-medium">
+          Scalable pricing, tangible impact
         </h2>
 
         <Toggle isYearly={isYearly} handleToggle={handleToggle} />
