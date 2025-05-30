@@ -25,18 +25,15 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Steps
 
 ```bash
 git clone https://github.com/your-username/buyOu.git
 cd buyOu
+
 2. Install Dependencies
 Make sure you have Node.js installed (v16+ recommended).
 
-bash
-Copy
-Edit
-npm install
 3. Start the Development Server
 bash
 Copy
